@@ -28,4 +28,4 @@ plaintext: s9{kn0wn_pl41nt3xt_@tt@ck} key: 636174
 
 ## Credit
 
-https://hannahvantran.com/xor-bruteforce
+https://hannahvantran.com/projects/xor-bruteforce
