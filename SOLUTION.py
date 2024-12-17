@@ -36,6 +36,6 @@ def main():
     ct = "10580f080f44140f2b130d40520f005019003c2100172117081c"
     k_pt = "s9{"
     message, key = bruteforce_XOR(ct, k_pt)
-    print(f'plaintext: {message} key: {"key}')
+    print(f'plaintext: {message} key: {key}')
     
 main()
